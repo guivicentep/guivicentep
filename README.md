@@ -20,6 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/guivicentep)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermevpereira/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511980948686)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guivicentep&theme=radical)](https://github.com/guivicentep/github-readme-stats)
 
